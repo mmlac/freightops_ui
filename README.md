@@ -172,3 +172,17 @@ src/
     EventsPage.tsx     # Raw / Canonical / Sanitized event inspector
     components.tsx     # Card, Badge, Button, Mono, SmallMuted, Input primitives
 ```
+
+---
+
+## Screenshots
+
+![Screenshot 1](./assets/screenshot-1.png)
+
+![Screenshot 2](./assets/screenshot-2.png)
+
+![Screenshot 3](./assets/screenshot-3.png)
+
+![Screenshot 4](./assets/screenshot-4.png)
+
+![Screenshot 5](./assets/screenshot-5.png)
